@@ -1,0 +1,34 @@
+_repo: Heroines-of-the-Crusades_39701
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39701-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bloss, C. A. (Celestia Angenette)
+    alias: Bloss, Celestia Angenette
+    birthdate: 1812
+    deathdate: 1855
+    gutenberg_agent_id: '40165'
+    url: http://www.gutenberg.org/2009/agents/40165
+description: ''
+gutenberg_issued: '2012-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crusades'
+- !lcsh 'Women -- Biography'
+- !lcsh 'Crusades -- Biography'
+- !lcc 'D'
+tableOfContents: Adela of Blois -- Eleanor of Aquitaine -- Berengaria of Navarre --
+  Isabella of Angouleme -- Violante of Jerusalem -- Eleanora of Castile -- First Crusade,
+  A.D. 1090 -- Second Crusade, A.D. 1147 -- Third Crusade, A.D. 1187 -- Fourth Crusade,
+  A.D. 1198 -- Fifth Crusade, A.D. 1203 -- Sixth Crusade, A.D. 1215 -- Seventh Crusade,
+  A.D. 1249 -- Eighth Crusade, A.D. 1272.
+title: Heroines of the Crusades
+url: http://www.gutenberg.org/ebooks/39701
