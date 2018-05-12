@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40165'
     url: http://www.gutenberg.org/2009/agents/40165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39701#Heroines-of-the-Crusades
 gutenberg_issued: '2012-05-15'
 gutenberg_type: Text
 identifiers:
